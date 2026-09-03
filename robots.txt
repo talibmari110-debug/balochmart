@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /about.html
-
-Sitemap: talibmari110-debug.github.io/balochmart/sitemap.xml
