@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /about.html
 
-Sitemap: https://www.balochmart.com/sitemap.xml
+Sitemap: talibmari110-debug.github.io/balochmart/sitemap.xml
